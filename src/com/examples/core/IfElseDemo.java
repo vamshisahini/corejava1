@@ -2,7 +2,7 @@ package com.examples.core;
 
 public class IfElseDemo {
     public static void main(String[] args) {
-        int number = 25;
+        int number = 21;
         int reminder = number%2;
         System.out.println("reminder = " + reminder);
 
